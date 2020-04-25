@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Colecoes</string>
+
+    <string-array name="list_times_futebol">
+        <item>São Paulo</item>
+        <item>Palmeiras</item>
+        <item>Curintia</item>
+        <item>Santos</item>
+        <item>Framengo</item>
+    </string-array>
+</resources>
