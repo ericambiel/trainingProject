@@ -60,3 +60,12 @@
 - Criação ArrayAdapter padrão
 - Loop for
 - Criação de string-array
+---
+
+**Como usar**
+
+Clone a repo "Master" ou baixe em alguma pasta de seu computador. Após abra o Android Studio e siga os passos:
+
+![1º Passo](../assets/1%C2%BA%20Passo.png?raw=true)
+
+![1º Passo](../assets/2º%20Passo.png?raw=true)
