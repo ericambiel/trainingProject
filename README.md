@@ -30,3 +30,33 @@
 - Utilização do console Log
 - Utilização do Método onBackPressed
 - Utilização dos Métodos finish(finalizar apenas uma instancia) e finishAffinity(finalizar todas as instancias anteriores)
+
+---
+
+**App Fragment:**
+- Criação de Fragment
+- Transição de Fragment
+- Parametros via Bundle
+- Criação de Métodos - alt+enter
+- Ciclo de vida fragment
+- Validação assert
+- Apresentar erro no EditText
+
+---
+
+**App Mensagens:**
+- Criação Toast
+- Criação AlertDialog
+- Criação Snackbar
+- Trabalhando com implements
+- Adicionando biblioteca
+
+---
+
+**App Coleções:**
+- Criação ArrayList
+- Trabalhando com Spinner
+- Trabalhando com ListView
+- Criação ArrayAdapter padrão
+- Loop for
+- Criação de string-array

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mensagens</string>
+    <string name="text_toast">Isso é um Toast!</string>
+    <string name="title_alert">Alert Dialog</string>
+    <string name="message_alert">Aqui vai a mensagem</string>
+    <string name="text_positivo">Positivo</string>
+    <string name="text_negativo">Negativo</string>
+    <string name="text_neutro">Neutro</string>
+    <string name="text_snackbar">Isso é um Snackbar</string>
+    <string name="text_action">Action</string>
+</resources>
