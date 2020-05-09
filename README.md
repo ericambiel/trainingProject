@@ -63,13 +63,16 @@
 
 ---
 
-** App SharePrefences **
+**App SharePrefences**
+
 ---
 
-** App SQLite **
+**App SQLite**
+
 ---
 
-** App Retrofit **
+**App Retrofit**
+
 ---
 
 **Como usar**
