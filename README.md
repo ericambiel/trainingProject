@@ -60,6 +60,16 @@
 - Criação ArrayAdapter padrão
 - Loop for
 - Criação de string-array
+
+---
+
+** App SharePrefences **
+---
+
+** App SQLite **
+---
+
+** App Retrofit **
 ---
 
 **Como usar**
